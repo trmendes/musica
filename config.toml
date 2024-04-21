@@ -1,0 +1,48 @@
+## -----------------------------------------------
+## Basic Configuration
+## -----------------------------------------------
+
+title = "Hiszpański w kręgu pieśni hiszpańskojęzycznych"
+copyright = "{year}"
+
+## -----------------------------------------------
+## Hugo Built-In
+## -----------------------------------------------
+
+disableKinds = ["taxonomy", "section"]
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-MEASUREMENT_ID'
+
+## -----------------------------------------------
+## Publish
+## -----------------------------------------------
+
+relativeURLs = "true"
+#canonifyURLs = "true"
+
+# Local
+baseURL = "/"
+publishDir = "public"
+
+# Remote
+#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
+#publishDir = "//centos/sites/hugodev/hugostory/"
+
+[Params]
+  description = "Hiszpański w kręgu pieśni hiszpańskojęzycznych"
+  logo = "images/banner.jpg"
+  favicon = true
+
+[Params.social]
+  email = "caressofsteel@protonmail.com"
+  instagram = "https://www.instagram.com/martita.zuzanna/"
+  youtube = "https://www.youtube.com/@hiszpanskizmartita8835"
+  facebook = "https://www.facebook.com/profile.php?id=100011028044254"
+  whatsapp = ""
+  signal = ""
+
+[Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css", "css/micromodal.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js", "js/micromodal.min.js"]

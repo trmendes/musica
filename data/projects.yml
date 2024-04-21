@@ -1,0 +1,14 @@
+title: "Inne Projekty"
+style: "style1 medium onscroll-fade-in"
+projects:
+  - name: "Hiszpański dla dzieci"
+    main_content: "Prowadzę w ramach mojej działalności kursy hiszpańskiego dla dzieci w wieku 7-9 oraz 10-12. Są to kursy bogate w śpiew, zabawę. Prowadzę je w szkołach w ramach zajęć pozalekcyjnych."
+    style: "solid style2 major fa-child-reaching"
+
+  - name: "Kursy online"
+    main_content: "Aktualnie prowadzę także kursy online dla dorosłych. Kursy są na różnych poziomach zaawansowania i różnej długości. Metoda, którą uczę jest komunikacyjna, nastawiona na mówienie od pierwszych lekcji."
+    style: "solid style2 major fa-graduation-cap"
+
+  - name: "Inne formy współpracy"
+    main_content: "Pozostaję otwarta na różne projekty i propozycje w których moje umiejętności mogłyby być pomocne, wydarzenia ze śpiewem dla dorosłych i dzieci, tłumaczenia z języka hiszpańskiego, portugalskiego i angielskiego, wspólne projekty muzyczne i językowe."
+    style: "solid style2 major fa-globe"

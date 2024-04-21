@@ -1,0 +1,26 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title: "Hiszpański w kręgu pieśni"
+id: "banner"
+subtitle: Wyjątkowa nauka języka hiszpańskiego poprzez zanurzenie w śpiew i muzykę
+main_content: |
+  Witaj na mojej stronie. Nazywam się Marta, dla przyjaciół też Martita. Od wielu lat bliski memu sercu jest język hiszpański, który studiowałam w Krakowie, Limie i Quito oraz  porozumiewałam się w krajach Ameryki Południowej gdzie mieszkałam prawie dwa lata. Hiszpański to język w którym kochałam i przyjaźniłam się, a także którego od wielu lat nauczam małych i dużych. Szczególnie ważna na mojej drodze do pogłębienia więzi i znajomości z językiem była i jest muzyka, od nie już tak dawna też śpiew. Postanowiłam więc połączyć dwie rzeczy, które kocham i przekazywać Wam język drogą serca, przez pieśni, śpiewająco.
+  Zapraszam Cię do zobaczenia czym się zajmuję i jakie kursy prowadzę.
+dialog_content: |
+  Jestem co raz bardziej świadomą kobietą. Bardziej świadomą dokąd idę i skąd przychodzę. Mam pasję, która polega na tym żeby sprawić aby języki obce stały się bliskie. Uczę w krakowskiej szkole licealnej oraz prowadzę kursy online dla dorosłych. Mam własną działalność w ramach której uczę hiszpańskiego w autorski sposób dzieci i dorosłych.
+  <br />
+  Swoje umiejętności językowe zdobywałam studiując filologię hiszpańską na Uniwersytecie Jagiellońskim oraz na uniwersytetach w Peru i Ekwadorze, ale przede wszystkim pośród znajomych i przyjaciół.
+  <br />
+  Jestem radosna i dostrzegam piękno w świecie i dobro w ludziach.
+  <br />
+  Kocham śpiewać z głębi serducha i brzucha. Zwłaszcza po hiszpańsku i portugalsku.
+  <br />
+  Jestem mamą Marysi, która tworzy ze mną nasz rozśpiewany dom.
+  <br />
+  Lubię grać na ukulele amatorsko i na bębnie szamańskim oraz tańczyć tańce latynoamerykańskie.
+  <br />
+  Jestem amatorką gry na instrumentach, ale pomimo dopiero kiełkujących umiejętności wiem że mogę robić to co lubię tak jak potrafię i dzielić się tym. Znam język hiszpański i z ochotą śpiewam pieśni i wiem jak połączyć te dwie piękne rzeczy abyście pokochali język, którym mówią miliony ludzi na świecie.
+button:
+  label: "kim jestem"
+image: "images/banner.jpg"
+image_dialog: "images/banner_dialog.jpg"

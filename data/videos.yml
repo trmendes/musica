@@ -1,0 +1,20 @@
+title: "Filmy"
+style: "style1 big onscroll-fade-in"
+videos:
+  - title: "canción del cacao :)"
+    youtubeVideoId: "nSz99SVnbso"
+
+  - title: "soy una niña salvaje"
+    youtubeVideoId: "stqJxSfdMmM"
+
+  - title: "luz del bosque"
+    youtubeVideoId: "hp-koptSpuE"
+
+  - title: "Soy el poder de Abuela Margarita"
+    youtubeVideoId: "eWEoe3GG7pM"
+
+  - title: "Canción a la Madre Tierra"
+    youtubeVideoId: "z8zbcwbuqJc"
+
+  - title: "Cómo no voy a cantar"
+    youtubeVideoId: "teGlOsWH7bY"

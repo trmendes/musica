@@ -1,0 +1,35 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "first-spotlight"
+title: "Música medicina vol.1 - kurs w kręgu pieśni hiszpańskojęzycznych"
+
+image: "images/spotlight01.jpg"
+main_content: |
+  Jest to kurs języka dla początkujących miłośniczek i miłośników hiszpańskiego poprzez pieśni hiszpańskojęzyczne z nurtu medycyny pieśni, pochodzących z Ameryki Łacińskiej, jak i z mojej własnej twórczości.
+button:
+  label: "Dowiedz się więcej"
+  link: "#"
+
+image_dialog: "images/spotlight01_dialog.jpg"
+dialog_content: |
+  Música medicina? Brzmi tajemniczo? Szamańsko? A może swojsko i blisko bo od dawna nucisz pieśni w których rozbrzmiewa pradawna wiedza o tym kim jesteśmy, jakie jest nasze połączenie z przyrodą i prawda o nas? Twoje serce rwie do tego miękkiego, pełnego słodyczy, melodyjnego, ale też mocnego języka w którym śpiewają: "Viento.. que viene de la montaña.." albo " Águila, águila, águile..', pieśń do orła szybującego w oddali, który jest jednak bliski naszemu sercu jak rodzina..
+  <br />
+  Pieśni medycyny to pieśni, które śpiewa się w wielu krajach Ameryki podczas ceremonii np. ceremonii kakao w Meksyku. Ale nie tylko, są to pieśni głęboko zakorzenione w rdzennych kulturach Ameryki lub inspirowane nimi. Poprzez swoją nieskomplikowaną i piękną melodię oraz głęboki, prosty tekst niosą przesłanie miłości, prawdy, braterstwa i połączenia z przyrodą. Są to swego rodzaju mantry, kojące nasze wnętrze.
+  <br />
+  Música Medicina vol.1 - kurs w kręgu pieśni hiszpańskojęzycznych, to stacjonarny kurs w Krakowie w formie dziesięciu spotkań w kręgu, gdzie analizujemy pieśni, wspólnie je śpiewamy, uczymy się pojawiających się w nich struktur językowych oraz wykorzystujemy je w rozmowie i w dalszych pieśniach i afirmacjach, które akompaniuje mój bęben lub ukulele. Spotkania bogate są we wspólny śpiew i zaczynają się małą ceremonią kakao, które otwiera nasza serca na nasz własny głos, śpiew, a do tego jest przepyszne.
+  <br />
+  Ten kurs jest moim ukochanym dzieckiem. Wkładam w niego wiele serca i zaangażowania. Nie jest to zwykły kurs językowy, choć uczy języka śpiewająco:)
+  <br />
+  Nie są to też lekcje śpiewu i każdy może partycypować w takim stopniu jak czuje i potrafi na dany moment. Nie oceniamy swoich umiejętności śpiewu, tylko cieszymy się muzyką i poznawaniem języka.
+  Podczas tych 10 tygodni z muzyką :
+  <ul>
+  <li>Otrzymasz narzędzia aby porozumiewać sie na poziomie podstawowym w języku hiszpańskim.</li>
+  <li>Poczujesz język z głębi Siebie i połączenie z nim na innym poziomie niż książkowy.</li>
+  <li>Doświadczysz radości śpiewania i bycia z innymi.</li>
+  <li>Poznasz kilkanaście różnych pieśni, które są proste do śpiewania i grania na gitarze, bębnie lub ukulele</li>
+  <li>Dostaniesz wiele pięknych materiałów stworzonych przeze mnie oraz dostęp do moich filmów i grupy na wybranym messengerze w którym komunikujemy się i inspirujemy między spotkaniami.</li>
+  <li>Napijesz się pysznego ceremonialnego kakao.</li>
+  </ul>
+  Spotkania są zarówno dla osób, które nie znają ani słowa po hiszpańsku jak i dla tych, które coś już umieją ale chcą podejść do nauki języka z innej strony :)
+  <br />
+  <strong>Uwaga: kurs może mieć działanie terapeutyczne :)</strong>

@@ -1,0 +1,26 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "second-spotlight"
+title: "Música Medicina vol. 2 - kurs w kręgu pieśni hiszpańskojęzycznych - kontynuacja"
+
+image: "images/spotlight02.jpg"
+main_content: |
+  Ten kurs to kontynuacja pierwszej części, dedykowana osobom, które uczestniczyły w kursie Música Medicina vol.1, ale także dla wszystkich tych, których interesują pieśni Amerki Łacińskiej i śpiew, znają już podstawy języka hiszpańskiego i chcą go zgłębiać od innej strony.
+button:
+  label: "Dowiedz się więcej"
+  link: "#"
+
+image_dialog: "images/spotlight02_dialog.jpg"
+dialog_content: |
+  Música Medicina vol.2 to stacjonarny kurs języka hiszpańskiego w Krakowie. Prowadzony jest w tej samej formule jak pierwsza część kursu, czyli 10-ciu spotkań w kręgu podczas których poznajemy nowe pieśni, analizujemy ich teksty, wyśpiewujemy i wypowiadamy to co nam w duszy gra w jeszcze bardziej świadomy sposób. Komunikujemy się w języku hiszpańskim, poznajemy bardziej zaawansowane struktury językowe, mówimy o rzeczach dla nas ważnych, naszych upodobaniach, pragnieniach, marzeniach i otaczającej nas rzeczywistości. Tematy niejednokrotnie inspirowane są pieśniami, które niosą za sobą przesłania mające efekt kojący i uzdrawiający dla naszych serc 💖
+  <br />
+  Podczas tych 10 tygodni z muzyką:
+  <ul>
+  <li>Otrzymasz bardziej zaawansowane narzędzia aby porozumiewać się na poziomie podstawowym w języku hiszpańskim.</li>
+  <li>Poczujesz głębszą więź z językiem.</li>
+  <li>Doświadczysz radości śpiewania i bycia z innymi.</li>
+  <li>Poznasz kilkanaście różnych pieśni, które są proste do śpiewania i grania na gitarze, ukulele lub bębnie.</li>
+  <li>Dostaniesz wiele pięknych materiałów stworzonych przeze mnie oraz dostęp do moich filmów i grupy na wybranym messengerze w którym komunikujemy się i inspirujemy między spotkaniami</li>
+  <li>napijesz się pysznego ceremonialnego kakao.</li>
+  <li>Stworzysz własną pieśń w języku hiszpańskim o ważnej dla Ciebie, wspierającej lub inspirującej treści, korzystając z zasobów z naszych spotkań.</li>
+  </ul>

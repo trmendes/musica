@@ -1,0 +1,20 @@
+<!-- Spotlight -->
+<section class="spotlight {{ .style }}" {{ with .id }} id="{{ . }}" {{ end }}>
+    {{ partial "modal_text" . }}
+    <div class="content">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .main_content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <ul class="actions stacked">
+            <li>
+                {{ with .id }}
+                <a data-custom-open="text_{{ . }}" onclick="MicroModal.show('text_{{ . }}');" class="button">
+                    {{ end }}
+                    {{ with .button }}{{ .label }}{{ end }}
+                </a>
+            </li>
+        </ul>
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{ . }}" alt="" />
+    </div>{{ end }}
+</section>

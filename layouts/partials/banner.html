@@ -1,0 +1,22 @@
+<!-- Banner -->
+<section class="banner {{ .style }}">
+    {{ partial "modal_text" . }}
+    <div class="content">
+        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        {{ with .subtitle }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ with .main_content }}<p>{{ . | safeHTML }}{{ end }}</p>
+        <ul class="actions stacked">
+            <li>
+                {{ with .id }}
+                <a href="#" class="button primary large wide smooth-scroll-middle" data-custom-open="text_{{ . }}"
+                    onclick="MicroModal.show('text_{{ . }}');">
+                    {{end}}
+                    {{ with .button }}{{ .label }}{{end}}
+                </a>
+            </li>
+        </ul>
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{.}}" alt="" />
+    </div>{{end}}
+</section>

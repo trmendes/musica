@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "third-spotlight"
+title: "Warsztaty weekendowe i kręgi pieśni hiszpańskojęzycznych"
+
+image: "images/spotlight03.jpg"
+main_content: |
+  Zapraszam Cię także na jednorazowe spotkania oraz weekendowe warsztaty - spotkania z música medicina z Ameryki Łacińskiej, wspólne śpiewanie w języku hiszpańskim i ceremonie kakao.
+button:
+  label: "Dowiedz się więcej"
+  link: "#"
+
+image_dialog: "images/spotlight03_dialog.jpg"
+dialog_content: |
+  To czas kiedy śpiewamy, ale także poznajemy znaczenia pieśni. Formuła jest taka jak na kursie, ale w pigułce. Jednorazowe wydarzenia są bardziej nastawione na śpiew a mniej na zdobywanie narzędzi do komunikacji. Poznajemy hiszpański sercem, od strony pieśni.
+  <br />
+  Kręgi to wspólne śpiewy i analiza pieśni, natomiast warsztaty wzbogacone są o afirmacje i warsztat językowy, a także tworzenie własnej pieśni medycyny po hiszpańsku. Kręgi są dla wszystkich, niezależnie od poziomu języka hiszpańskiego, chyba że w konkretnym warsztacie jest mowa o stopniu zaawansowania.
+  <br />
+  Zapraszam Cię do wspólnego tworzenia takich kręgów i warsztatów też w Twojej przestrzeni i poza Krakowem, jeśli poczujesz moje wołanie :)
